@@ -28,6 +28,8 @@ Users should be able to:
 ## My process
 For this project, i first organized my Html code, normally i go from top to bottom, and write css simultaneously, but for this one i found it easier to write first Html and then css.
 Then i established the color and font variables.
+To try and get the actual sizes of padding, margin, fonts, etc. I opened the design image with paint, and with the selection tool i messured everything in pixels, not 
+completely accurate but better than nothing.
 After that it was all trial and error.
 
 ### Built with
