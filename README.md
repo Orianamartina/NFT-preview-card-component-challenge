@@ -41,6 +41,9 @@ After that it was all trial and error.
 As a beginner, i was able to use all the information that i knew i had in my head but i wasn't sure how to use or when to use it.
 I think i will revisit this project once again later, maybe do it again, to see if i can achieve it in a easier way, or more optimal way, as i still have a lot to practice and learn.
 
+I had trouble pathing the images, so i moved them all to the main folder, i will work on that on my next project!! i know it is a mess, sorry :P
+
+
 If anyone help me with aligning the icons where the rice and time are, i will really appreciate it!!!
 i tried a lot of things but i couldn't get it to work :C
 
